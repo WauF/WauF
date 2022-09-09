@@ -9,4 +9,4 @@
   <ul>
     <li> <a href="https://github.com/WauF" target="_blank"> <img src="https://www.offidocs.com/imageswebp/logohtmlhtml5.jpg.webp" alt="html" height=50 width=50> </a> </li>
     <li> <a href="https://github.com/WauF" target="_blank"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="css" height=50 width=50> </a> </li>
-    <li> <a href="https://github.com/WauF" target="_blank"> <img src="https://thumbnail.imgbin.com/25/15/4/imgbin-javascript-logo-html-comment-python-15-green-and-yellow-js-screenshot-3k1L7g8tEcquFM106pD5ajceq_t.jpg" alt="js" height=50 width=50> </a> </li>
+    <li> <a href="https://github.com/WauF" target="_blank"> <img src="https://seeklogo.com/images/O/ottawa-js-logo-394DB38073-seeklogo.com.png" alt="js" height=50 width=50> </a> </li>
