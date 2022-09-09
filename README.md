@@ -7,4 +7,4 @@
 <a href="mailto:akurtt2534@gmail.com"> <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="gmail" height=50>
 <h4>My Tools:</h4> 
   <ul>
-    <li> html5 <a href="https://github.com/WauF" target="_blank"> <img src="https://www.offidocs.com/imageswebp/logohtmlhtml5.jpg.webp" alt="html" height=50 width=50> </li>
+    <li> <a href="https://github.com/WauF" target="_blank"> <img src="https://www.offidocs.com/imageswebp/logohtmlhtml5.jpg.webp" alt="html" height=50 width=50> </li>
