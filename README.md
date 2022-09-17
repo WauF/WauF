@@ -14,6 +14,6 @@
     <li> <a href="https://github.com/WauF" target="_blank"> <img src="https://seeklogo.com/images/O/ottawa-js-logo-394DB38073-seeklogo.com.png" alt="js" height=50 width=50> </a> </li>
   </ul>
   
-  <p>
-    [![WauF's GitHub stats](https://github-readme-stats.vercel.app/api?username=WauF)](https://github.com/anuraghazra/github-readme-stats)
+  <p align="center">
+    [![WauF's GitHub stats](https://github-readme-stats.vercel.app/api?username=WauF)]
   </p>
