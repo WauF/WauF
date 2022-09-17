@@ -15,5 +15,5 @@
   </ul>
   
   <p align="center">
-    [![WauF's GitHub stats](https://github-readme-stats.vercel.app/api?username=WauF)]
+    <img src="https://github-readme-stats.vercel.app/api?username=WauF&hide=contribs,prs)"
   </p>
