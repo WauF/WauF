@@ -34,3 +34,5 @@
   <img src="https://31rywsonopr6oxjoijv5ey552lyu-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
 </a>
 -->
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rywsonopr6oxjoijv5ey552lyu&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
