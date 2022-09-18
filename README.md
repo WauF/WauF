@@ -1,4 +1,10 @@
 <h1> -👋 Hi, I’m @WauF </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ahmet+Kurt....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 - 👀 I’m interested in software engineering and machine learning
 
 <h4> Contact With Me: </h4>
@@ -17,3 +23,14 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=WauF&hide=contribs,prs&show_icons=true&theme=dark" alt="stats" />
   </p>
+  
+   <!--
+  ## 💻 Current project
+- [financial-go](https://github.com/Jvillegasd/financial-go)
+
+## 🎵 Spotify status
+
+<a href="https://31rywsonopr6oxjoijv5ey552lyu-spotify.vercel.app/api/song/?opened">
+  <img src="https://31rywsonopr6oxjoijv5ey552lyu-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
+</a>
+-->
